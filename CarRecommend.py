@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Reentika Awasthi
-11/12/2021
-To reccomend cars based on a budget entered by the user. 
-"""
+
 import random
 file = open("cars.csv")
 
