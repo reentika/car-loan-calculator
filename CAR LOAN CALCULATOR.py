@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Reentika Awasthi
-11/9/2021
-To tell the user the monthly payment, interest rate and the amount paid through the whole mortgage, total payments, based on information entered by them
 
-"""
 
 file = open("cars.csv")
 
